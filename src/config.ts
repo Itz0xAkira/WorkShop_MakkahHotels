@@ -8,4 +8,3 @@ const app = initializeApp(firebaseConfig);
 
 export { app };
 
-console.log("hello world");
