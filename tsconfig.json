@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      // "@*": ["./*"],
+      // "@assets/*": ["./assets/*"],
+      // "@components/*": ["./components/*"],
+      // "@config/*": ["./config/*"],
+      // "@db/*": ["./db/*"],
+      // "@navigation/*": ["./navigation/*"],
+      // "@screens/*": ["./screens/*"],
+    }
+  },
+  "include": ["**/*.ts"],
+}
